@@ -49,6 +49,9 @@
     <Compile Include="Models\Request.cs" />
     <Compile Include="Models\Response\ResponseMessage.cs" />
     <Compile Include="Models\Response\ResponseToken.cs" />
+    <Compile Include="Models\Yandex\YandexRequest.cs" />
+    <Compile Include="Models\Yandex\YandexResponse.cs" />
+    <Compile Include="Models\Yandex\YandexTokenResponse.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
